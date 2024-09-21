@@ -1,1 +1,2 @@
 pyModbusTCP~=0.3.0
+icecream~=2.1.3
